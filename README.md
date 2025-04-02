@@ -1,6 +1,13 @@
 # Hotel-Managerment-System
 BTL môn KTPM - IT4082, 2024.2, Soict
 
+# Nhóm 25
+- Phạm Mạnh Quyết - 20225663 #(Team Leader)
+- Đặng Hải Anh - 20225688
+- Vũ Ngọc Đức - 20225816
+- Nguyễn Thanh Hiếu - 20225716
+- Lê Thị Quỳnh - 20225917
+
 # Cấu trúc thư mục
 - `frontend/`: chứa mã nguồn giao diện ứng dụng
 - `backend/`: chứa mã nguồn logic ứng dụng
